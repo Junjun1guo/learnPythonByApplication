@@ -84,10 +84,10 @@ print ("Hello world!")
 ## 地址与图片链接
 ```
 网址链接：[python官网](https://www.python.org)    
-图片链接：![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python.png) 
+图片链接：![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python.png)
 ```
 [python官网](https://www.python.org/)   
-<img src="images/python.png" width="60%">
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python.png)
 
 ## 表格
 ```
@@ -118,8 +118,8 @@ print ("Hello world!")
 ### python语言的发展    
 　　Guido von Rossum 1989年开发了python编译器。python语言介于C语言与脚本语言之间，是一种“胶水”语言。python语言的宗旨就是“能用胶水解决的问题，坚决不造轮子”。发展的版本有2.x和3.x，[python官网](https://www.python.org/)      
 
-<img src="images/C++之父.png" width="50%">
-<img src="images/python之父.png" width="50%">  
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/C++之父.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python之父.png)
 
 ### python语言下载及安装
 1. 在下载页面选择相应系统对应的版本进行下载
