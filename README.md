@@ -1,5 +1,11 @@
 # Learning python by examples（pythonLearning.ipynb）
 _________
+## 教程使用步骤：
+**1. 在本页面下载项目文件，并解压**
+**2. 按照附录教程安装jupyterlab模块**
+**3. 按照2.中打开的当地网页，进行交互式学习**
+
+_________
 
 # **Markdown语言**
 
