@@ -535,17 +535,17 @@ if __name__=='__main__':#测试用
 
 **推荐书籍:**
 
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python编程从入门到实践.png)            
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python3面向对象编程.png)                  　
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python神经网络编程.png)             
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python编程从入门到实践.png)                   
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python3面向对象编程.png)                         　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python神经网络编程.png)                    
 
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/编写高质量代码.png)           　　
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/流畅的python.png)              　　　
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/EffectivePython.png)               
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/编写高质量代码.png)                   　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/流畅的python.png)                      　　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/EffectivePython.png)                       
 
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/机器学习实战.png)             　　　
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/深度学习.png)                 　
-![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/动手学深度学习.png)                
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/机器学习实战.png)                      　　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/深度学习.png)                         　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/动手学深度学习.png)                         
 
 # python语言在桥梁工程中的应用
 
