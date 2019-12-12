@@ -124,15 +124,15 @@ print ("Hello world!")
 ### python语言下载及安装
 1. 在下载页面选择相应系统对应的版本进行下载
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python官网.png)
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python下载页面.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python官网.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python下载页面.png)
 2. 安装python，可以选择相应的安装目录，添加python到系统路径
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python安装界面.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python安装界面.png)
 
 3. 进入python安装目录Scripts进行安装需要的模块，安装好的模块位于site-pakages
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python安装模块.png)
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python模块包位置.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python安装模块.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python模块包位置.png)
 
 ### python常用编辑器介绍
 
@@ -140,8 +140,8 @@ print ("Hello world!")
 　　[editPlus](https://www.editplus.com/)， [pyCharm](https://www.jetbrains.com/pycharm/)，
 [anaConda](https://www.anaconda.com/)等
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/editPlus.png)
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/pyCharm截图.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/editPlus.png)
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/pyCharm截图.png)
 
 ### python语言的特点
 
@@ -532,17 +532,17 @@ if __name__=='__main__':#测试用
 
 **推荐书籍:**
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python编程从入门到实践.png)            
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python3面向对象编程.png)                  　
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/python神经网络编程.png)             
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python编程从入门到实践.png)            
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python3面向对象编程.png)                  　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/python神经网络编程.png)             
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/编写高质量代码.png)           　　
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/流畅的python.png)              　　　
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/EffectivePython.png)               
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/编写高质量代码.png)           　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/流畅的python.png)              　　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/EffectivePython.png)               
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/机器学习实战.png)             　　　
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/深度学习.png)                 　
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/动手学深度学习.png)                
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/机器学习实战.png)             　　　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/深度学习.png)                 　
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/动手学深度学习.png)                
 
 # python语言在桥梁工程中的应用
 
@@ -665,19 +665,19 @@ if __name__=='__main__':
 
 1. 进入python安装目录Scripts文件夹，shift+ctrl+鼠标右键打开powershell窗口，或者在当前文件栏输入cmd进入命令行窗口
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/附录1.jpg)        
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/附录2.jpg)      
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/附录1.jpg)        
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/附录2.jpg)      
 
 2. 在命令行输入：pip3 install jupyterlab开始自动安装
 
 
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/附录3.jpg)      
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/附录3.jpg)      
 
 3. 在jupyter文件所在目录栏输入cmd进入命令行，输入jupyter lab打开，进入jupyterlab界面。关于jupyterlab的更多知识可参考[官方帮助文档](https://jupyterlab.readthedocs.io/en/latest/)。
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/附录4.jpg)      
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/附录5.jpg)      
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/附录4.jpg)      
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/附录5.jpg)      
 
 ## python包的开发及发布
 
@@ -686,8 +686,8 @@ if __name__=='__main__':
 * 包的格式   
   包括setup.py文件及包文件(包含__init__.py的文件,可以什么也不写)
 
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/testPackage1.png)       
-![](https://github.com/Junjun1guo/junjun1guo.github.io/raw/master/postImg/20191211/testPackage2.png)     
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/testPackage1.png)       
+![](https://github.com/Junjun1guo/learnPythonByApplication/raw/master/images/testPackage2.png)     
 
 setup.py文件
 
